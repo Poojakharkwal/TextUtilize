@@ -1,4 +1,4 @@
 # TextUtilize
 This is my first repository
 <br>
-Author-pooja kharkwal [pooja kharkwalg]
+Author-pooja kharkwal
